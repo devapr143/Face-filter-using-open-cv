@@ -9,7 +9,7 @@ create a new project and install necessary libraries mentioned above
 
 create a Resources folder in your project file and add images to that folder.
 
-used haarcascade frontal face default.xml
+used haarcascade frontal face default.xml,put this in the project file.
 used facemesh from cvzone to detect points on face
 then i used four points to separate the lips the lips,
 in this i used 2 points to make the red points on edges of lips
